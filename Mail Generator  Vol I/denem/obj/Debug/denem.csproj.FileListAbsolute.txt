@@ -1,0 +1,10 @@
+C:\Users\Furkan\source\repos\denem\denem\bin\Debug\denem.exe.config
+C:\Users\Furkan\source\repos\denem\denem\bin\Debug\denem.exe
+C:\Users\Furkan\source\repos\denem\denem\bin\Debug\denem.pdb
+C:\Users\Furkan\source\repos\denem\denem\obj\Debug\denem.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\denem\denem\obj\Debug\denem.Form1.resources
+C:\Users\Furkan\source\repos\denem\denem\obj\Debug\denem.Properties.Resources.resources
+C:\Users\Furkan\source\repos\denem\denem\obj\Debug\denem.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\denem\denem\obj\Debug\denem.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\denem\denem\obj\Debug\denem.exe
+C:\Users\Furkan\source\repos\denem\denem\obj\Debug\denem.pdb
