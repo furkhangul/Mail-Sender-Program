@@ -1,0 +1,10 @@
+C:\Users\Furkan\source\repos\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\App\App\obj\Debug\EmailSenderApp.MainForm.resources
+C:\Users\Furkan\source\repos\App\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\Furkan\source\repos\App\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\App\App\bin\Debug\App.exe.config
+C:\Users\Furkan\source\repos\App\App\bin\Debug\App.exe
+C:\Users\Furkan\source\repos\App\App\bin\Debug\App.pdb
+C:\Users\Furkan\source\repos\App\App\obj\Debug\App.exe
+C:\Users\Furkan\source\repos\App\App\obj\Debug\App.pdb
